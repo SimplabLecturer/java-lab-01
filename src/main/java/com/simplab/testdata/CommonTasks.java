@@ -3,6 +3,9 @@ package com.simplab.testdata;
 public class CommonTasks {
     public int sum(int a, int b) {
         System.out.println("To be implemented");
+        System.out.println("To be implemented");
+        System.out.println("To be implemented");
+        System.out.println("To be implemented");
         return 0;
     }
 
